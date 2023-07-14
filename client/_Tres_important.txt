@@ -1,0 +1,4 @@
+Lors du build de votre application, rassurez-vous d'avoir 
+<uses-permission android:name="android.permission.INTERNET"/>
+dans votre fichier AndroidManifest.xml (android/app/src/main) 
+Ceci permet au build de faire des requêts http, et d'avoir accès à internet.

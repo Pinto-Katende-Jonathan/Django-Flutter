@@ -1,0 +1,38 @@
+# Flutter/Dart
+**/build/
+**/ios/Pods/
+**/android/.gradle/
+**/android/gradle/
+**/android/app/build/
+**/android/app/outputs/
+**/android/gradlew
+**/lib/generated/
+**/*.iml
+**/.dart_tool/
+**/.idea/
+**/ios/Flutter/
+**/ios/Runner.xcworkspace/
+
+# Dépendances
+**/android/.idea/
+**/android/.gradle/
+**/android/app/.externalNativeBuild/
+**/android/app/build/
+**/android/build/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Podfile.lock
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Fichiers générés par Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-ios-integration
+.flutter-plugins-android-dependencies
+.pub/
+.buildinfo/
+.packages
+.idea/
+.vscode/
+venv/
