@@ -2,7 +2,7 @@
 # ----------------------------------------------
 ## Le nom de l'application safari teke teke, 
 
-<img src="screenshot.jpg"/>
+<img src="screenshot.jpg" width="1080" height="640"/>
 
 cette application est composée de deux parties:<br/>
     - Le backend ou le server<br/>
