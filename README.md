@@ -2,6 +2,8 @@
 # ----------------------------------------------
 ## Le nom de l'application safari teke teke, 
 
+<img src="screenshot.jpg" width="300" height="400"/>
+
 cette application est composée de deux parties:<br/>
     - Le backend ou le server<br/>
     - Le frontend ou le client
@@ -28,4 +30,3 @@ Ce back a comme caractéristique :
         - Le lieu de départ .<br/>
     - Vous pouvez chatter en socket avec le propriétaire de la publication
   
-  ![Screenshot](screenshot.jpg)    
