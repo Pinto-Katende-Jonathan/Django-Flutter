@@ -2,7 +2,11 @@
 # ----------------------------------------------
 ## Le nom de l'application safari teke teke, 
 
-ce backend sert d'api pour une application développée en flutter
+cette application est composée de deux parties:<br/>
+    - Le backend ou le server<br/>
+    - Le frontend ou le client
+
+Le backend sert d'api simple pour une application développée en flutter
 
 Ce back a comme caractéristique :
   - Donne la possibilté de se créer un compte comm
@@ -24,4 +28,4 @@ Ce back a comme caractéristique :
         - Le lieu de départ .<br/>
     - Vous pouvez chatter en socket avec le propriétaire de la publication
   
-      
+  ![Screenshot](screenshot.png)    
