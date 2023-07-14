@@ -28,4 +28,4 @@ Ce back a comme caractéristique :
         - Le lieu de départ .<br/>
     - Vous pouvez chatter en socket avec le propriétaire de la publication
   
-  ![Screenshot](screenshot.png)    
+  ![Screenshot](screenshot.jpg)    
