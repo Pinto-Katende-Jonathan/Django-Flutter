@@ -10,14 +10,14 @@ cette application est composée de deux parties:<br/>
 
 Le backend sert d'api simple pour une application développée en flutter
 
-Ce back a comme caractéristique :
-  - Donne la possibilté de se créer un compte comm
+Le back a comme caractéristiquesq :
+  - Donne la possibilté de se créer un compte comme :
       - client
       - chauffeur
       - Admin (uniquement par le superUser
   - Donne la possibilité de se connecter
       Le back détermine le rôle en fonction de l'enregistrement dans la bdd.
-      Le front affiche les différentes fenêtre selon le rôle.
+      Le front affiche les différentes fenêtres selon le rôle.
   
   - Si vous êtes chauffeur, vous pouvez :
     - créer une nouvelle publication
